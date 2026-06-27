@@ -6,3 +6,5 @@
 **Plan for when light returns:**
 ```bash
 nmap -sV 192.168.56.102
+    Goal: Identify service versions on Metasploitable2 VM
+    Status: No light, but I showed up for Day 2
